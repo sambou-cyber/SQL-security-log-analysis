@@ -36,7 +36,7 @@ The data was queried from the following tables:
 > Screenshots of executed SQL queries and results are embedded in the accompanying PDF report.
 
 ## Files in This Repository
-- `sql-security-log-analysis_report.pdf` — Full report with queries, screenshots, and explanations
+- `sql-security-log-analysis_report.pdf` Full report with queries, screenshots, and explanations
 - `README.md` — Project overview and context
 
 
